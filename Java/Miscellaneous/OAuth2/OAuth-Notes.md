@@ -42,7 +42,7 @@ Ealier days before OAuth frma work, user need to select one of the account and p
 and password of respective account and signin, these information sent thru post request and thirdparty application
 would save these details in their database, they can access whenever they want, this approach is insecure.
 
-![Oauth Example](https://github.com/chilukavinayak/Notes/blob/main/Images/OAuth3.png)
+![Oauth Example](https://github.com/chilukavinayak/Notes/blob/main/Images/OAuth3.PNG)
 
 instead of giving username and password to the thirdparty application or website, Oauth frame work
 redirected to login page instead. User will use google login page to login google credentials, and these
@@ -53,7 +53,7 @@ access token to this third party
 
 using access token third party access to account, but limited set of operation thirdparty can peform on your behalf
 
-![Oauth Example](https://github.com/chilukavinayak/Notes/blob/main/Images/OAuth4.png)
+![Oauth Example](https://github.com/chilukavinayak/Notes/blob/main/Images/OAuth4.PNG)
 
 
 
